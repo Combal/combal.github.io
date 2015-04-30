@@ -10,7 +10,7 @@ p, a {
     font-smoothing: antialiased;
     margin: 0.8em 0;
     font-size: 18px;
-    color: #1fbb1a;
+    color: #167614;
 }
 
 .ghost,
@@ -36,8 +36,6 @@ p, a {
 }
 
 #container {
-    background: -webkit-radial-gradient(50% 50%, ellipse, #2d0a0e 0%, #101018 75%, #060612 100%);
-    background: -moz-radial-gradient(50% 50%, ellipse, #20202D 0%, #101018 75%, #060612 100%);
     position: absolute;
     height: 100%;
     width: 100%;
